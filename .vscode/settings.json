@@ -1,0 +1,16 @@
+{
+    "cmake.sourceDirectory": "/home/albertocastro/tello-ros2/build/tello_msg/tello_msg__py",
+    "python.autoComplete.extraPaths": [
+        "/home/albertocastro/tello-ros2/install/tello/lib/python3.10/site-packages",
+        "/home/albertocastro/tello-ros2/install/tello_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/albertocastro/tello-ros2/install/tello/lib/python3.10/site-packages",
+        "/home/albertocastro/tello-ros2/install/tello_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}
